@@ -1,17 +1,18 @@
 body
 {
-    color: red;
+    color: #333;
     text-align: left;
     font-family: sans-serif;
-    font-size: 20px;
+    font-size: 19px;
 }
 
 #cabecera 
 {
     
-    background-color: rgb(157, 245, 85);
+    background-color: rgb(64, 51, 238);
     box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
     font-weight: bold;
+    color: white;
 }
 
 #post p 
@@ -25,7 +26,7 @@ body
 {
     color: white;
     font-size: 25px;
-    padding: 0 0 0 1rem;
+    padding: 0 0 0 2rem;
     font-weight: bold;
 }
 
@@ -39,5 +40,14 @@ body
 #container h1 
 {
     font-size: 20px;
+}
+
+#footer 
+{
+    width: 97.5%;
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    padding: 0.5rem;
 }
 
