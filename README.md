@@ -13,5 +13,7 @@ Practica profesional para [My seven suite](https://mysevensuite.com)
 * HTML Y CSS
 * Git y GitHub
 *  Etc
+* Cursos completamente basics
+* idk
 
 Este readme.md es de practica por ahi vi que dicen que hacer readme es de buena practica, pero bueno ha seguir mejorando
