@@ -1,12 +1,9 @@
 body
 {
     color: #333;
-    text-align: center;
+    text-align: left;
     font-family: sans-serif;
-    font-size: 20px;
-    background-color: darkgrey;
-    margin: 0;
-    padding: 0;
+    font-size: 19px;
 }
 
 #cabecera 
@@ -22,8 +19,9 @@ body
 
 #cabecera #img
 {
-    width: 20px;
-    vertical-align: middle;    
+    width: 25px;
+    vertical-align: middle; 
+    padding: 0 2px 0px 0px;   
 }
 
 #post p 
@@ -31,6 +29,12 @@ body
     font-family: 'Segoe UI';
     font-size: 30px;
     font-weight: bold;
+}
+
+#cabecera #img
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #textline 
@@ -53,8 +57,12 @@ body
     font-size: 20px;
 }
 
-#post 
+#footer 
 {
-    background-color: white;
-    padding: 1rem;
+    width: 97.5%;
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    padding: 0.5rem;
 }
+
