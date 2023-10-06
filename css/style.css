@@ -22,8 +22,9 @@ body
 
 #cabecera #img
 {
-    width: 20px;
-    vertical-align: middle;    
+    width: 25px;
+    vertical-align: middle; 
+    padding: 0 2px 0px 0px;   
 }
 
 #post p 
@@ -58,3 +59,13 @@ body
     background-color: white;
     padding: 1rem;
 }
+
+#footer 
+{
+    width: 97.5%;
+    background-color: darkslateblue;
+    text-align: center;
+    color: white;
+    padding: 0.5rem;
+}
+
