@@ -15,5 +15,6 @@ Practica profesional para [My seven suite](https://mysevensuite.com)
 *  Etc
 * Cursos completamente basics
 * idk
+* A seguir aprendiendo
 
 Este readme.md es de practica por ahi vi que dicen que hacer readme es de buena practica, pero bueno ha seguir mejorando
