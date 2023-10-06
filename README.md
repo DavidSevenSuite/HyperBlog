@@ -12,7 +12,7 @@ Practica profesional para [My seven suite](https://mysevensuite.com)
 * Php
 * HTML Y CSS
 * Git y GitHub
-*  Etc
+* Etc
 * Cursos completamente basics
 * idk
 
